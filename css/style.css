@@ -275,7 +275,7 @@ footer{
     width: 684px;
     height: 160px;
     display:flex;
-    p{
+    a{
         color: white;
         background-color: #0077FF;
         background-size: 286px 44px;
